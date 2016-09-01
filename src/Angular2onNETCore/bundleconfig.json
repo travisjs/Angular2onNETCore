@@ -20,25 +20,5 @@
     },
     // Optinally generate .map file
     "sourceMap": false
-  },
-  {
-    "outputFileName": "wwwroot/lib/core-js/shim.js",
-    "inputFiles": [ "node_modules/core-js/client/shim.min.js" ]
-  },
-  {
-    "outputFileName": "wwwroot/lib/reflect-metadata/reflect.js",
-    "inputFiles": [ "node_modules/reflect-metadata/Reflect.js" ]
-  },
-  {
-    "outputFileName": "wwwroot/lib/systemjs/system.src.js",
-    "inputFiles": [ "node_modules/systemjs/dist/system.src.js" ]
-  },
-  {
-    "outputFileName": "wwwroot/lib/zone.js/zone.js",
-    "inputFiles": [ "node_modules/zone.js/dist/zone.js" ]
-  },
-  {
-    "outputFileName": "wwwroot/js/systemjs.config.js",
-    "inputFiles": [ "systemjs.config.js" ]
   }
 ]
